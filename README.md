@@ -52,6 +52,9 @@ Once the hours completed is entered in the Daily Hours Worked, then the new and 
 ## Power BI Dashboard
 **Note:** The data inside the dashboard has been replaced with test data for viewing purposes.
 
+### Schema
+![Data Model Work Contributions](https://github.com/Kajones21/WorkContributionsWorkflow/blob/main/PBI_DataStructure_Contributions.png)
+
 ### Power BI Landing Screen
 ![Power BI Landing Screen](https://github.com/Kajones21/WorkContributionsWorkflow/blob/main/SearcherPBI_Landing.png)
 
